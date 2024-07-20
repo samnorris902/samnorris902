@@ -2,7 +2,7 @@
 - 👀 I’m interested in the Toronto Raptors, Southern BBQ & Swing Jazz
 - 🌱 I’m currently learning about film making
 - 💞️ I’m looking to collaborate on marketing projects
-- 📫 How to reach me. sam@spinupwp.com
+- 📫 How to reach me. sam@samnorris.ca
 
 <!---
 samnorris902/samnorris902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
